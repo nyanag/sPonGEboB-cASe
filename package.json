@@ -1,0 +1,16 @@
+{
+  "name": "spongebob",
+  "version": "1.0.0",
+  "description": "FuNkY tYpeCasE",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "spongebob",
+    "npm",
+    "fun"
+  ],
+  "author": "Ananya Ganesh",
+  "license": "ISC"
+}
